@@ -1,6 +1,6 @@
 {
-    "name": "flexbox_froggy",
-    "short_name": "flexbox_froggy",
+    "name": "Flexbox 개구리",
+    "short_name": "Flexbox개구리",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
